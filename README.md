@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NancyAkinyi
 - 👀 I’m interested in data analytics
 - 💞️ I’m looking to collaborate on data analytics projects with a focus on social impact
-- 📫 How to reach me -- Email me @nancy.akinyi22@fmail.com
+- 📫 How to reach me -- Email me @nancy.akinyi22@gmail.com
 
 <!---
 NancyAkinyi/NancyAkinyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
